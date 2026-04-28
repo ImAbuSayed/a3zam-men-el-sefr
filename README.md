@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في ليالي السهر
+> قلبي ينادي لك تحت القمر
+> حبك في روحي كضوء السحر
+> أنت حياتي وأنت القدر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
