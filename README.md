@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/a3zam-men-el-sefr/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's A3zam Men El Sefr](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
