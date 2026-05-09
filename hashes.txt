@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - A3zam Men El Sefr
+
+This log tracks the cryptographic history and versioning for the song **A3zam Men El Sefr** (a3zam-men-el-sefr).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:02:05.376218 | `v1` | `0abf2a5a1b53948cbb9712b016d8eae160b51b23fa3ffd1600aeb31b4a4cec28` | `1a33a489a396d1ba69af9850ee37f50eaccc41ad5e91e0744e040c02a8a5d4f8` | `2026-05-09_a3zam-men-el-sefr-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
